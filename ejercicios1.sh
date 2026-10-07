@@ -1,4 +1,5 @@
 #!/bin/bash
+# Modificado en mi entorno local
 # Modificado desde Producción
 if [ ! -f "$1" ]; then
     date > "$1"
